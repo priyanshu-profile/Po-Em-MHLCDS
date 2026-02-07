@@ -7,9 +7,7 @@ The folder Po-Em-MHLCDS contains the code for the proposed Po-Em-MHLCDS architec
 
 ## MHLCD Dataset Request Access
 
-The sample dataset is available in sample_dataset.csv.
-
-To request full access to the MHLCD dataset, fill out the agreement form [linked here](https://docs.google.com/forms/d/e/1FAIpQLSf1nSVEhgb1kSod3IEFFT3guJnL6yQMZ_bBsvABrKZyA_-wFg/viewform)
+To request access to the MHLCD dataset, fill out the agreement form [linked here](https://docs.google.com/forms/d/e/1FAIpQLSf1nSVEhgb1kSod3IEFFT3guJnL6yQMZ_bBsvABrKZyA_-wFg/viewform)
 
 ## Citations
 
